@@ -1,0 +1,2 @@
+# ztrecka
+Strecklista
